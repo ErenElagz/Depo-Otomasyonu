@@ -1,4 +1,3 @@
-![Screenshot 2023-06-25 003954](https://github.com/ErenElagz/Depo-Otomasyonu/assets/125195062/fe6fd863-726f-44ef-b295-6c6aa7f81e07)
 # Depo Yönetim Otomasyonu
 Depo Yönetim Otomasyonu, Birçok farklı ürün için entegre edebileceğiniz text-based depo yönetim sistemi.'
 Basit ama etkili bir text-based depo otomasyonu 
