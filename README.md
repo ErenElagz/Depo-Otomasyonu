@@ -1,3 +1,4 @@
+![Screenshot 2023-06-25 003954](https://github.com/ErenElagz/Depo-Otomasyonu/assets/125195062/fe6fd863-726f-44ef-b295-6c6aa7f81e07)
 # Depo Yönetim Otomasyonu
 Depo Yönetim Otomasyonu, Birçok farklı ürün için entegre edebileceğiniz text-based depo yönetim sistemi.'
 Basit ama etkili bir text-based depo otomasyonu 
@@ -19,6 +20,9 @@ Basit bir dönem projesiydi ilk versiyonu Nesne yönelimli programlamaya yöneli
 İyi oyunlar, iyi geliştirmeler... <3
 
 ## Ekran Görüntüleri
+![Screenshot 2023-06-25 003954](https://github.com/ErenElagz/Depo-Otomasyonu/assets/125195062/7361f1f4-5501-4efd-bb31-cbb7fbfefce0)
+![Screenshot 2023-06-25 003934](https://github.com/ErenElagz/Depo-Otomasyonu/assets/125195062/23990135-7721-4bf3-991b-4dec7dd6cf9e)
+![Screenshot 2023-06-25 003914](https://github.com/ErenElagz/Depo-Otomasyonu/assets/125195062/481e9ac3-b096-4cd1-9427-831e3d8d45ba)
 
 
 ## Lisans
